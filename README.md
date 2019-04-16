@@ -1,3 +1,3 @@
 # hello-world
-Sample Repo
+Sample Repo \n
 I am NinjaVirus
