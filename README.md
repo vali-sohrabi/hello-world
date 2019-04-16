@@ -24,5 +24,6 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=u2S65xbX9lA
+" target="_blank"><img src="http://img.youtube.com/vi/u2S65xbX9lA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
