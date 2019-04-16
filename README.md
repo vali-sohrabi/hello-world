@@ -1,5 +1,10 @@
 salam
 ***
 hi
-'''java
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```python
+def salam:
+
+```java
+if (isAwesome){
+  return true
+}
