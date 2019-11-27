@@ -1,6 +1,6 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"client
+  {"id":0,"file":"
 dev tun
 proto tcp
 remote 121.161.196.210 995
@@ -106,6 +106,5 @@ wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
-</key>"},
-{"id":1,"file":""}]
+</key>"},]
 }
