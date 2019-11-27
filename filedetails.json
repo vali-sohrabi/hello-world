@@ -3,13 +3,9 @@
   {"id":0,"file":"
 dev tun
 proto tcp
-remote 121.161.196.210 995
-;http-proxy-retry
-;http-proxy [proxy server] [proxy port]
-
+remote 175.203.26.36 995
 cipher AES-128-CBC
 auth SHA1
-
 resolv-retry infinite
 nobind
 persist-key
@@ -17,7 +13,6 @@ persist-tun
 client
 verb 3
 #auth-user-pass
-
 <ca>
 -----BEGIN CERTIFICATE-----
 MIIF2DCCA8CgAwIBAgIQTKr5yttjb+Af907YWwOGnTANBgkqhkiG9w0BAQwFADCB
@@ -106,5 +101,6 @@ wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
 M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 -----END RSA PRIVATE KEY-----
 
-</key>"},]
+</key>
+"},]
 }
